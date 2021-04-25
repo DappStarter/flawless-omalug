@@ -1,0 +1,17 @@
+{
+    "name": "degate",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "ttt",
+        "/category/asset_value_tracking/token/symbol": "ttt",
+        "/category/asset_value_tracking/token/decimals": "1",
+        "/category/asset_value_tracking/token/supply": "100000000",
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "multiple",
+        "/category/collection/entity": true
+    }
+}
